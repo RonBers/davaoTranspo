@@ -1,0 +1,27 @@
+.leaflet-control-container .leaflet-routing-container-hide {
+    display: none;
+}
+
+#map { 
+    height: 82vh;
+    width: 98vw;
+    margin: auto;
+}
+
+div.topbar {
+    margin-bottom: 1vh;
+    
+}
+
+img.logo {
+    height: 50px;
+}
+
+form.discount-select {
+   display: block;
+}
+
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
